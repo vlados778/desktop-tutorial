@@ -1,0 +1,66 @@
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe.config
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.pdb
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csprojAssemblyReference.cache
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form1.resources
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Properties.Resources.resources
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.GenerateResource.cache
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.exe
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.pdb
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\x86\sqlite3.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\x64\sqlite3.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.xml
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.xml
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.CopyComplete
+C:\Users\БУТЛУП\source\repos\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form2.resources
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\x86\sqlite3.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\x64\sqlite3.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe.config
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.pdb
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.xml
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.xml
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.xml
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll.config
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csprojAssemblyReference.cache
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form1.resources
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form2.resources
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Properties.Resources.resources
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.GenerateResource.cache
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.CopyComplete
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.exe
+F:\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.pdb
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\x86\sqlite3.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\x64\sqlite3.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe.config
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.exe
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\Квадратные уравнения.pdb
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.xml
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form1.resources
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Form2.resources
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные_уравнения.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.exe
+C:\Users\Vladislav\Desktop\Новая папка\Kvadratnye_uravnenia\Квадратные уравнения\Квадратные уравнения\obj\Debug\Квадратные уравнения.pdb
